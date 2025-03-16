@@ -72,7 +72,7 @@ This is an API for managing customer data. It provides CRUD (Create, Read, Updat
 1.  **Start the development server:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
     (Note: You'll need to define a `start` script in your `package.json` that executes `node src/server.ts` or similar.  The provided `package.json` is missing this.)
